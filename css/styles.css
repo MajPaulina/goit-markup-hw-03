@@ -58,7 +58,8 @@
   
   .navigation .link:focus,
   .navigation .link:hover {
-    color: var(--brand-color)
+    color: var(--brand-color);
+    text-decoration: none;
   }
   
   /*   header contact   */
@@ -71,6 +72,7 @@
   .contacts-header .contact:hover,
   .contacts-header .contact:focus {
     color: var(--brand-color);
+    text-decoration: none;
   }
   
   /*   main pages   */
