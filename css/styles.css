@@ -47,14 +47,14 @@
     line-height: 1.15;
     letter-spacing: 0.02em;
     list-style: none;
-  }
+      }
   
   /*   header navigation   */
   
   .navigation .link {
     text-decoration: none;
     color: var(--main-color);
-  }
+    }
   
   .navigation .link:focus,
   .navigation .link:hover {
@@ -70,8 +70,8 @@
   
   .contacts-header .contact:hover,
   .contacts-header .contact:focus {
-     color: var(--brand-color);
-    }
+    color: var(--brand-color);
+  }
   
   /*   main pages   */
   
