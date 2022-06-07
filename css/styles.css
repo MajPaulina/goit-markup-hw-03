@@ -253,7 +253,7 @@ header .container > .logo {
 
 .agency-gallery {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   list-style: none;
 }
 
