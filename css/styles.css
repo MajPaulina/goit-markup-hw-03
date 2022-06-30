@@ -236,10 +236,6 @@ header .container > .logo {
 
 /*   agency team    */   
 
-.agency {
-  background-color: var(--background-gray-color);
-}
-
 .agency > .container {
   display: flex;
   flex-direction: column;
@@ -326,8 +322,7 @@ header .container > .logo {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  justify-content: center;
-  /*justify-content: space-between;*/
+  justify-content: space-between;
   list-style: none;
 }
 
