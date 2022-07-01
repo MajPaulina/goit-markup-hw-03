@@ -73,6 +73,7 @@ header {
 header .container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 header .container > .logo {
@@ -239,6 +240,7 @@ header .container > .logo {
 .agency > .container {
   display: flex;
   flex-direction: column;
+  background-color:#F5F4FA;;
 }
 
 .agency h2 {
