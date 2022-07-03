@@ -36,7 +36,7 @@ body {
 .container {
   margin: 0px auto;
   width: 1200px;
-}
+  }
 
 .section {
   padding-top: 94px;
@@ -236,12 +236,15 @@ header .container > .logo {
 }
 
 /*   agency team    */   
+.agency {
+  background-color: var(--background-gray-color);
+}
 
 .agency > .container {
   display: flex;
   flex-direction: column;
-  background-color:#F5F4FA;;
-}
+  background-color: #F5F4FA;
+  }
 
 .agency h2 {
   padding-bottom: 50px;
